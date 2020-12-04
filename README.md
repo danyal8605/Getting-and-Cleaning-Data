@@ -1,6 +1,6 @@
-##Getting and Cleaning Data - Peer Graded Assingment
+Getting and Cleaning Data - Peer Graded Assingment
 
-#Objectives
+Objectives
 
 1. A tidy data set
 2. A link to a Github repository with your script for performing the analysis
